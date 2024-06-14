@@ -64,7 +64,7 @@ The content of the data set is given below:
         
 A pie chart visual was used to represent review of the customers.
 
-![image](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/b5f363a8-08e2-41de-bf58-f9f4870f8320)
+![PieChart BA](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/44ce9870-5ba1-4d4b-9603-aa09249223ed)
 
 
 
