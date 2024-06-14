@@ -54,16 +54,12 @@ For collecting data from the site using Python and BeautifulSoup,the expression 
 - Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
 
   
-Snap of new calculated column ,
 
-![milestone1](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/e09f0745-ace7-48fe-a36a-6aabdd8ff7cd)
-
-        
-)
         
 A card visual was used to represent count of customers.
 
-![milestone1](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/e09f0745-ace7-48fe-a36a-6aabdd8ff7cd)
+![image](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/b5f363a8-08e2-41de-bf58-f9f4870f8320)
+
 
         
  - Step 16 : New measure was created to find  % of customers,
