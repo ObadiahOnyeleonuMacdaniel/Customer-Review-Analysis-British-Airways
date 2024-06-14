@@ -49,6 +49,12 @@ For collecting data from the site using Python and BeautifulSoup,the expression 
             print(f"   ---> {len(reviews)} total reviews")
             
 - Step 2 : Load the csv dataset into my notebook as a pandas Dataframe
+
+The content of the data set is given below:
+
+![Head BA](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/a98d7d5b-22fa-4dbc-b6aa-93c1597f4ab3)
+
+
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
 - Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
@@ -56,17 +62,12 @@ For collecting data from the site using Python and BeautifulSoup,the expression 
   
 
         
-A card visual was used to represent count of customers.
+A pie chart visual was used to represent review of the customers.
 
 ![image](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/b5f363a8-08e2-41de-bf58-f9f4870f8320)
 
 
-        
- - Step 16 : New measure was created to find  % of customers,
- 
- Following DAX expression was written to find % of customers,
- 
-         % Customers = (DIVIDE(airline_passenger_satisfaction[Count of Customers], 129880)*100)
+
  
  A card visual was used to represent this perecntage.
  
