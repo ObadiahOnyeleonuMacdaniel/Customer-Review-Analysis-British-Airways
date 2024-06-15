@@ -83,14 +83,14 @@ Howbeit, since number of neutral customers (almost 46%) are more than satisfied 
 
 
 ## Insights & Recommendations
-Based on the distribution of sentiment reviews for the airline company (38.4% positive, 46% neutral, and 17% negative), here are potential insights and recommendations:
+Based on the distribution of sentiment reviews for the airline company (38.4% positive, 46% neutral, and 15.6% negative), here are potential insights and recommendations:
 
 ### Insights:
 1. **Neutral Dominance**: The majority of reviews (46%) are neutral. This suggests that customers may have mixed feelings or are indifferent about their experiences with the airline.
    
 2. **Positive Reviews**: Positive reviews account for 38.4% of the total. While positive sentiment is significant, it indicates that there is room for improvement to increase customer satisfaction further.
 
-3. **Negative Reviews**: Negative reviews constitute 17% of the total. Although relatively lower, negative feedback highlights areas where the airline is falling short and needs immediate attention.
+3. **Negative Reviews**: Negative reviews constitute 15.6% of the total. Although relatively lower, negative feedback highlights areas where the airline is falling short and needs immediate attention.
 
 ### Recommendations:
 1. **Enhance Customer Engagement**:
