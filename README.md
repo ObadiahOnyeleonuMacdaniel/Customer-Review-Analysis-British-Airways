@@ -21,7 +21,7 @@ Also since average delay in arrival & departure both is 15 minutes, thus they mu
 
 - Step 1 : Web scraping and analysis. I used a package called BeautifulSoup to collect the data from the web. Once I've collected the data and saved it into a local .csv file, I started with my analysis.
 
-For collecting data from the site using Python and BeautifulSoup,the expression was written as;
+For collecting data from the site using Python and BeautifulSoup, I used the code below;
        
         import requests
         from bs4 import BeautifulSoup
@@ -52,18 +52,16 @@ For collecting data from the site using Python and BeautifulSoup,the expression 
 
 
 - Step 2 : Load the csv dataset into my notebook as a pandas Dataframe
-
+- Step 3 : Preprocessing the data
 The content of the data set is given below:
 
 ![Head BA](https://github.com/ObadiahOnyeleonuMacdaniel/Customer-Review-Analysis-British-Airways/assets/156518788/a98d7d5b-22fa-4dbc-b6aa-93c1597f4ab3)
 
 
 
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
-- Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
 
-  
+- Step 4 : Exploratory Data Analysis
+- Step 5 : Data Visualization
 
         
 A pie chart visual was used to represent review of the customers.
